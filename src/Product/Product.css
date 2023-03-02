@@ -1,0 +1,33 @@
+.card{
+    box-shadow: 0 4px 8px rgb(0, 0, 0, 0.2);
+    width: 300px;
+    height: auto;
+    text-align: center;
+    font-family: sans-serif;
+}
+.price{
+    color: rgb(92, 91, 91);
+    font-size: 22px;
+    margin: 10px 0;
+}
+button{
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: rgb(253, 250, 250);
+    background-color: rgb(1, 177, 24);
+    text-align: center;
+    font-size: 18px;
+    cursor: pointer;
+    width: 100%;
+}
+button:hover{
+    background-color: rgb(70, 68, 68);
+}
+img{
+    width: 100%;
+}
+h2{
+    text-align: center;
+    margin-top: 50px;
+}
